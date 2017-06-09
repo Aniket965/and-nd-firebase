@@ -42,6 +42,9 @@ dependencies {
     compile 'com.github.bumptech.glide:glide:3.6.1'
     // real time database
     compile 'com.google.firebase:firebase-database:10.0.0'
+    compile 'com.google.firebase:firebase-auth:10.0.0'
+    compile 'com.firebaseui:firebase-ui-auth:1.1.1'
+
 }
 
 apply plugin: 'com.google.gms.google-services'
